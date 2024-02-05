@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 function App() {
   // const URL = "https://ori-photos-storage.s3.amazonaws.com/";
   // const URL = 'http://localhost:3030/get-image'
-  const URL = 'http://images-server-env.eba-8mqnyet2.us-east-1.elasticbeanstalk.com//get-image'
+  const URL = 'http://images-server-env.eba-8mqnyet2.us-east-1.elasticbeanstalk.com/get-image'
 
   
 
